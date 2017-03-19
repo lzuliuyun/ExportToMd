@@ -6,7 +6,7 @@ tags: []
 comments: true
 toc: true
 ---
-GitHub 地址[https://github.com/lzuliuyun/ExportToMd](https://github.com/lzuliuyun/ExportToMd)
+GitHub 地址:[https://github.com/lzuliuyun/ExportToMd](https://github.com/lzuliuyun/ExportToMd)
 
 为知笔记导出MarkDown插件，只支持MarkDown格式文档导出。使用方法如下：
 
@@ -23,3 +23,6 @@ GitHub 地址[https://github.com/lzuliuyun/ExportToMd](https://github.com/lzuliu
 5.导出文档
 
 ![](/img/936218e6-be30-4371-82f9-5d614e07785d.png)
+
+log:
+2017-03-19 更新支持为知笔记4.5以上版本
