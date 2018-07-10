@@ -22,6 +22,12 @@ GitHub地址: [https://github.com/lzuliuyun/ExportToMd](https://github.com/lzul
 ![](/images/936218e6-be30-4371-82f9-5d614e07785d.png)
 
 ## 日志
-**2018-04-12**  自定义`!---`前后包裹语法导出配置到头部
+[2018-07-10]
+新增配置项showRootDir导出标签categories是否为文件路径根目录
+维持原生语法`---`配置标签
+cover支持粘贴图片并导出为相对路径，配合插件[hexo-image-cdn](https://github.com/lzuliuyun/hexo-image-cdn)使用更好哦
+[2018-04-12]
+自定义`!---`前后包裹语法导出配置到头部
 ![](/images/3a0f2c85-fda0-449b-80cb-8773cc5baf65.png)
-**2017-03-19** 更新支持为知笔记4.5以上版本
+[2017-03-19]
+更新支持为知笔记4.5以上版本
